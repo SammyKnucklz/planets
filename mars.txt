@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 cold and dry. Has spiders. There's a song about them. 
 I don't really like it very much. 
 The two moons are a problem for Wolfman. 
@@ -6,4 +5,3 @@ MARS. MARS.
 M A R S
 =======
 cold and dry. Has spiders. There's a song about them.
->>>>>>> parent of 3fe55bc... mars.txt
